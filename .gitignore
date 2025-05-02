@@ -16,4 +16,5 @@ sketch
 
 .idea
 **/node_modules/*
+**/build/*
 **/.firebaserc
